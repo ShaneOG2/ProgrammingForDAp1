@@ -1,7 +1,7 @@
 ![Heading image](img/Shane_O'Gorman's_n_Programming_for_Data_Analysis_n_Project_1.png)
 
 ## Overview ##
-This repository contains my work for the Project 1 of the Programming for Data Analysis module. I have outlined below a brief description of the problem, how the program works and the references I used. 
+This repository contains my work for Project 1 of the Programming for Data Analysis module. I have outlined below a brief description of the problem, how the program works and the references I used. 
 
 
 ### Problem Statement ###
@@ -15,6 +15,7 @@ This repository contains my work for the Project 1 of the Programming for Data A
 
 
 **How the program works** - 
+jyjtyj
 1. The program begins by asking the user to input the weight (kg) and then height (cm). 
 2. Both inputs are stored as int variables, ***w_kg*** and ***h_cm*** respectively. 
 3. The formala for BMI<sup>1</sup> is: **weight (kg) / (height (m))<sup>2</sup>**. This was calculated and stored as ***bmi***. 
@@ -35,9 +36,11 @@ This repository contains my work for the Project 1 of the Programming for Data A
 8. Finally, 4. ***plt.show()*** shows the plot we created. 
 
 **References** - 
+jytjy
 1. <a href="https://pynative.com/python-range-for-float-numbers/" target="_blank">Used to get more x-points</a>
 
 ### README References ###
+jytjt
 1. <a href="https://www.youtube.com/watch?v=ECuqb5Tv9qI&t=158s&ab_channel=codeSTACKr" target="_blank">Ideas for README 1</a>
 2. <a href="https://www.youtube.com/watch?v=a8CwpGARAsQ&ab_channel=Mr.RandomGenerator" target="_blank">Ideas for README 2</a>
 3. <a href="https://banner.godori.dev/" target="_blank">Banner Maker</a>
