@@ -1,29 +1,26 @@
-![Heading image](img/Shane_O'Gorman's_n_Programming_for_Data_Analysis_n_Project_1.png)
+![Heading image](img/sleeping.png)
+
+# Programming for Data Analysis - Project 1 #
 
 ## Overview ##
-This repository contains my work for Project 1 of the Programming for Data Analysis module. I have outlined below a brief description of the problem, how the program works and the references I used. 
+This repository contains my work for Project 1 of the the Programming for Data Analysis Module module at ATU as part of the Higher Diploma in Computing (Data Analytics). This repository contains: 
 
+- The Jupyter notebook 'Simulation Notebook.ipynb' which contains the main body of work. 
+- A folder named 'img' which contains images used in 'Simulation Notebook.ipynb'. 
+- This README file.
 
-### Problem Statement ###
----
-**Description** - Create a data set by simulating a real-world phenomenon. 
+**Project Statement** - Create a data set by simulating a real-world phenomenon. 
 - Choose a real-world phenomenon that can be measured and for which you could collect at least one-hundred data points across at least four different variables.
 - Investigate the types of variables involved, their likely distributions, and their relationships with each other.
 - Synthesise/simulate a data set as closely matching their properties as possible
 - Detail your research and implement the simulation in a Jupyter notebook – the data set itself can simply be displayed in an output cell within the notebook.
 
+**About this Respository** - The contents of this repository are:
+
+1. **README** consists of the project statement and how to access .
+2. **Simulation Jupyter Notebook**
 
 
-**How the program works** - 
-jyjtyj
-1. The program begins by asking the user to input the weight (kg) and then height (cm). 
-2. Both inputs are stored as int variables, ***w_kg*** and ***h_cm*** respectively. 
-3. The formala for BMI<sup>1</sup> is: **weight (kg) / (height (m))<sup>2</sup>**. This was calculated and stored as ***bmi***. 
-4. Given the inputed height was in cm, ***h_cm*** was divided by 100 in the calculation of ***bmi*** to convert to meters.
-5. The round function<sup>2</sup> was used to round ***bmi*** to 2 decimal places. 
-6. Next, I decided to add a bit more to the program and give the user an indication<sup>3</sup> whether the BMI they got was underweight, normal, overweight, obese or extremly obese.
-7. This was acheived using if/else statements<sup>4</sup> and Comparison Operators<sup>5</sup>.
-8. Finally, The BMI was printed<sup>6</sup> out along with the result indicator (i.e. underweight, normal, etc.)
 
 **How the program works** - 
 1. Firstly, the program gets the x-points to plot - using np.arrange we can get the points between 0-4 incremented by 0.1 for accuracy<sup>1</sup>. This is inputed into a numpy array. 
@@ -35,13 +32,5 @@ jyjtyj
 7. ***plt.grid()*** puts grid lines on the plot. 
 8. Finally, 4. ***plt.show()*** shows the plot we created. 
 
-**References** - 
-jytjy
-1. <a href="https://pynative.com/python-range-for-float-numbers/" target="_blank">Used to get more x-points</a>
 
-### README References ###
-jytjt
-1. <a href="https://www.youtube.com/watch?v=ECuqb5Tv9qI&t=158s&ab_channel=codeSTACKr" target="_blank">Ideas for README 1</a>
-2. <a href="https://www.youtube.com/watch?v=a8CwpGARAsQ&ab_channel=Mr.RandomGenerator" target="_blank">Ideas for README 2</a>
-3. <a href="https://banner.godori.dev/" target="_blank">Banner Maker</a>
-3. <a href="https://www.markdownguide.org/basic-syntax/#blockquotes-1" target="_blank">Markdown Cheat Sheet</a>
+
