@@ -1,4 +1,5 @@
 ![Heading image](img/sleeping.png)
+<a href="https://www.pexels.com/search/sleep/" target="_blank">Image taken from Pexels (Free Stock Photos)</a>
 
 # Programming for Data Analysis - Project 1 #
 
