@@ -6,7 +6,7 @@
 This repository contains my work for Project 1 of the the Programming for Data Analysis Module at ATU as part of the Higher Diploma in Computing (Data Analytics). This repository contains: 
 
 - The Jupyter notebook `Simulation Notebook.ipynb` which contains the main body of work. 
-- A folder named 'img' which contains images used in `Simulation Notebook.ipynb`. 
+- A folder named `img` which contains images used in `Simulation Notebook.ipynb`. 
 - This README file which contains the project statement and how to get `Simulation Notebook.ipynb` running.
 
 ## Project Statement ##  
@@ -14,7 +14,7 @@ This repository contains my work for Project 1 of the the Programming for Data A
 - Create a data set by simulating a real-world phenomenon. 
 - Choose a real-world phenomenon that can be measured and for which you could collect at least one-hundred data points across at least four different variables.
 - Investigate the types of variables involved, their likely distributions, and their relationships with each other.
-- Synthesise/simulate a data set as closely matching their properties as possible
+- Synthesise/simulate a data set as closely matching their properties as possible.
 - Detail your research and implement the simulation in a Jupyter notebook – the data set itself can simply be displayed in an output cell within the notebook.
 
 ## Intructions to Reader ## 
